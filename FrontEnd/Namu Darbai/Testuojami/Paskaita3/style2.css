@@ -1,0 +1,13 @@
+.blue {
+    background: blue;
+    width: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.green {
+    background: green;
+    text-align: center;
+    height: 250px;
+    border: 10px solid black;
+    line-height: 250px;
+}
