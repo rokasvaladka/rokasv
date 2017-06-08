@@ -20,3 +20,7 @@
     height: 270px;
     background: black;
 }
+div .content {
+    color:white;
+    font-size: 200%;
+}
