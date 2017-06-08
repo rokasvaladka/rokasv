@@ -3,6 +3,7 @@
     width: 300px;
     padding: 10px;
     box-sizing: border-box;
+    margin: auto;
 }
 .green {
     background: green;
@@ -10,4 +11,5 @@
     height: 250px;
     border: 10px solid black;
     line-height: 250px;
+
 }
