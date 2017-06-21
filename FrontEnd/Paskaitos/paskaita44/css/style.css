@@ -1,0 +1,10 @@
+.image1 {
+ background-image: url(../img/wedding.jpg);
+    width: 100%;
+
+}
+.jump {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
